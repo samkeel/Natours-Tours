@@ -1,6 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
 # compiled output
 /dist
 /tmp
@@ -9,7 +6,7 @@
 tmp.json
 
 # dependencies
-/node_modules
+node_modules/
 
 # IDEs and editors
 /.idea
